@@ -31,7 +31,7 @@ import internPeLogo from './assets/company_logo/intenrpe.jpeg';
 import prepcodeLogo from './assets/company_logo/prepcode.png';
 
 // Education Section Logo's
-import thpsLogo from './assets/education_logo/thpsLogo.png';
+import thpsLogo from './assets/education_logo/thpslogo.png';
 import LsmLogo from './assets/education_logo/Lsm.jpeg';
 import lpcpsLogo from './assets/education_logo/lpcps.png';
 
