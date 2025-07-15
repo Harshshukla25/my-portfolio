@@ -39,7 +39,7 @@ const About = () => {
         I'm a dedicated Full Stack Developer and Java Developer with a strong grasp of both frontend and backend technologies. I specialize in building clean, scalable, and efficient web applications using Java, Spring Boot, React, Node.js, and MongoDB. I'm passionate about writing high-quality code, solving real-world problems, and continuously improving my skills.
       </p>
       {/*Resume Button */}
-      <a href="https://drive.google.com/file/d/1LqF1vS3bB9xZJGYHeKIpIsbhiU0ocBKl/view?usp=drivesdk"
+      <a href="https://drive.google.com/file/d/1Hh-6xS-j64J4yn87riQlAWKO5qhERQzt/view?usp=drivesdk"
       target='_blank'
       rel='noopener noreferrer'
       className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105'
