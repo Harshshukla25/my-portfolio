@@ -39,6 +39,7 @@ import lpcpsLogo from './assets/education_logo/lpcps.png';
 import bankruptbuddyLogo from './assets/work_logo/bankruptbuddy.jpg';
 import skillHatchLogo from './assets/work_logo/skillhatch.jpg';
 import myportfolioLogo from './assets/work_logo/myportfolio.jpg'
+import weatherappLogo from './assets/work_logo/weatherapp.jpg'
 
 
 
@@ -186,5 +187,15 @@ export const SkillsInfo = [
       tags: ["React JS", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/Harshshukla25/my-portfolio",
       webapp: "https://devharsh-portfolio.netlify.app/",
+    },
+    {
+      id: 3,
+      title: "Weather-App",
+      description:
+        "A responsive weather application built with React and Tailwind CSS that delivers real-time weather updates using the OpenWeatherMap API and provide all the necessary data. It features dynamic backgrounds and icons that adapt to current conditions, voice search for hands-free city lookup, text-to-speech weather reports and a 5-day forecast.",
+      image: weatherappLogo,
+      tags: ["React", "Tailwind CSS","Javascript" ],
+      github: "https://github.com/Harshshukla25/Weather-App",
+      webapp: "https://harshsh-weather-app.netlify.app/",
     },
   ];  
