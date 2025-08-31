@@ -205,7 +205,7 @@ export const SkillsInfo = [
       description:
       "ChatChit is a real time messaging platform built with React.js and Node.js featuring real-time communication via Socket.io and AI-powered conversations. Users can send text messages, images, videos, and files with cloud storage handled by Cloudinary. The application includes JWT authentication, user search functionality, and an integrated AI chat assistant powered by Google's Gemini API.",
       image: chatchitLogo,
-      tags:["React.js, Node.js, Express.js, MongoDB, Socket.io,Google Gemini API"],
+      tags:["React.js", "Node.js", "Express.js", "MongoDB", "Socket.io" ,"Google Gemini API"],
       github: "https://github.com/Harshshukla25/Chat-App",
       webapp: "https://chat-app-henna-one.vercel.app/",
     }
