@@ -40,6 +40,7 @@ import bankruptbuddyLogo from './assets/work_logo/bankruptbuddy.jpg';
 import skillHatchLogo from './assets/work_logo/skillhatch.jpg';
 import myportfolioLogo from './assets/work_logo/myportfolio.jpg'
 import weatherappLogo from './assets/work_logo/weatherapp.jpg'
+import chatchitLogo from './assets/work_logo/chatchit.jpg'
 
 
 
@@ -198,4 +199,14 @@ export const SkillsInfo = [
       github: "https://github.com/Harshshukla25/Weather-App",
       webapp: "https://harshsh-weather-app.netlify.app/",
     },
+    {
+      id: 4,
+      title: "ChatChit",
+      description:
+      "ChatChit is a real time messaging platform built with React.js and Node.js featuring real-time communication via Socket.io and AI-powered conversations. Users can send text messages, images, videos, and files with cloud storage handled by Cloudinary. The application includes JWT authentication, user search functionality, and an integrated AI chat assistant powered by Google's Gemini API.",
+      image: chatchitLogo,
+      tags:["React.js, Node.js, Express.js, MongoDB, Socket.io,Google Gemini API"],
+      github: "https://github.com/Harshshukla25/Chat-App",
+      webapp: "https://chat-app-henna-one.vercel.app/",
+    }
   ];  
